@@ -37,7 +37,7 @@ If you know this at create time here are steps you can use to increase the space
 
    ![gparted1](images/gparted1.png)
 
-11. You should then be in the partition editor.    Select your disk from the drop down in the upper right hand corner.   ( /dev/sdb ) in this case 
+11. You should then be in the partition editor.    Select your disk from the drop down in the upper right hand corner.   ( /dev/sdb in this case )
 
    ![gparted2](images/gparted2.png)
 
