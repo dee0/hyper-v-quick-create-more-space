@@ -27,7 +27,7 @@ If you know this at create time here are steps you can use to increase the space
 
 7. Close the 'Create Virtual Machine' success window without connecting 
 
-8. In Hyper-V Manager in edit a linux vm ( create one if you don't have one ).    Add the disk from above as SECOND disk
+8. In Hyper-V Manager edit a linux vm other than the one you just created.  ( create a second one if you don't have one ).    Add the disk from above as SECOND disk
 
    ![edit4](images/edit4.png)
 
